@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.88041893"
-     inkscape:cx="139.13831"
-     inkscape:cy="435.02018"
+     inkscape:zoom="0.81929515"
+     inkscape:cx="139.14399"
+     inkscape:cy="445.50489"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -61,7 +61,7 @@
        shaper:pathType="exterior"
        vector-effect="non-scaling-stroke"
        id="path1089"
-       style="fill:none;stroke:#ff0000;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;stroke:#0000ff;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        d="m 33.17543,90.300052 a 2.1000006,2.1000006 0 1 0 4.2,0 2.1000006,2.1000006 0 1 0 -4.2,0 z"
        fill="#ffffff"
@@ -177,7 +177,7 @@
        stroke="#000000"
        vector-effect="non-scaling-stroke"
        id="path1123"
-       style="fill:none;stroke:#0000ff;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;stroke:#ff0000;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        d="m 182.17543,50.30005 a 2.1,2.1 0 1 0 4.2,0 2.1,2.1 0 1 0 -4.2,0 z"
        fill="#ffffff"
@@ -186,7 +186,7 @@
        stroke="#000000"
        vector-effect="non-scaling-stroke"
        id="path1127"
-       style="fill:none;stroke:#0000ff;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;stroke:#ff0000;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        d="m 188.17544,168.20006 v 4.2 h 4.19999 v -4.2 z"
        fill="#ffffff"
@@ -195,7 +195,7 @@
        stroke="#000000"
        vector-effect="non-scaling-stroke"
        id="path1129"
-       style="fill:none;stroke:#0000ff;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;stroke:#ff0000;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        d="m 188.17543,48.200049 v 4.200002 h 4.2 v -4.200002 z"
        fill="#ffffff"
@@ -204,7 +204,7 @@
        stroke="#000000"
        vector-effect="non-scaling-stroke"
        id="path1131"
-       style="fill:none;stroke:#0000ff;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+       style="fill:none;stroke:#ff0000;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        d="m 101.17543,207.30006 a 2.1,2.1 0 1 0 4.2,0 2.1,2.1 0 1 0 -4.2,0 z"
        fill="#ffffff"
@@ -251,61 +251,13 @@
        id="path1143"
        style="fill:none;stroke:#ff0000;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <circle
-       style="fill:#000000;stroke-width:1.13417;stroke-dasharray:none"
+       style="fill:#006400;stroke-width:1.13417;stroke-dasharray:none;fill-opacity:1"
        id="path4820"
        cx="110.409"
        cy="110.409"
        r="5" />
-    <rect
-       style="fill:#55ff13;stroke:#0000ff;stroke-width:7.99999;stroke-opacity:1"
-       id="rect964"
-       width="31.167271"
-       height="17.667294"
-       x="-9.7952194"
-       y="137.20016"
-       transform="rotate(-60.63185)" />
-    <rect
-       style="fill:#55ff13;stroke:#ff00ff;stroke-width:2.60001;stroke-dasharray:none;stroke-opacity:1"
-       id="rect964-35"
-       width="23.197268"
-       height="10.634045"
-       x="139.67288"
-       y="104.39442"
-       transform="matrix(0.99998275,-0.00587315,0.00898048,0.99995967,0,0)" />
-    <rect
-       style="fill:#55ff13;stroke:#0000ff;stroke-width:7.99999;stroke-opacity:1"
-       id="rect964-3"
-       width="31.167271"
-       height="17.667294"
-       x="-208.36064"
-       y="41.162735"
-       transform="rotate(-118.45948)" />
-    <rect
-       style="fill:#55ff13;stroke:#0000ff;stroke-width:7.99999;stroke-opacity:1"
-       id="rect964-3-6"
-       width="31.167271"
-       height="17.667294"
-       x="-83.556808"
-       y="-117.51298"
-       transform="rotate(-179.91904)" />
-    <rect
-       style="fill:#55ff13;stroke:#00ffff;stroke-width:8.00078;stroke-opacity:1"
-       id="rect964-3-6-7"
-       width="44.528664"
-       height="25.311674"
-       x="-52.024506"
-       y="-100.21918"
-       transform="matrix(-0.74808762,0.66359996,-0.64861866,-0.76111355,0,0)" />
-    <rect
-       style="fill:#55ff13;stroke:#00ffff;stroke-width:8.00078;stroke-opacity:1"
-       id="rect964-3-6-7-5"
-       width="44.528664"
-       height="25.311674"
-       x="-191.14563"
-       y="-75.605766"
-       transform="matrix(-0.67364935,-0.73905111,0.75227832,-0.65884546,0,0)" />
     <path
-       d="m 95.012,102.90911 h -5 v 15 h 5 z"
+       d="m 92.775,102.79998 h -5 v 15 h 5 z"
        fill="#ffffff"
        shaper:cutDepth="0.003"
        shaper:pathType="interior"
@@ -314,7 +266,7 @@
        id="path2218"
        style="fill:none;stroke:#ff0000;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
-       d="m 117.2668,87.173538 -2.5,4.33013 12.99039,7.5 2.5,-4.33013 z"
+       d="m 115.0298,87.06441 -2.5,4.33013 12.99039,7.5 2.5,-4.33013 z"
        fill="#ffffff"
        shaper:cutDepth="0.003"
        shaper:pathType="interior"
@@ -323,13 +275,22 @@
        id="path2224"
        style="fill:none;stroke:#ff0000;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
-       d="m 130.25719,126.14468 -2.5,-4.33012 -12.99039,7.5 2.5,4.33012 z"
+       d="m 128.02019,126.03555 -2.5,-4.33012 -12.99039,7.5 2.5,4.33012 z"
        fill="#ffffff"
        shaper:cutDepth="0.003"
        shaper:pathType="interior"
        stroke="#000000"
        vector-effect="non-scaling-stroke"
        id="path2228"
+       style="fill:none;stroke:#ff0000;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       d="m 150.11918,114.04992 11.42339,19.7859 a 1.9999999,1.9999999 0 0 0 3.73205,-1 V 87.764025 a 1.9999999,1.9999999 0 0 0 -3.73205,-1 l -11.42339,19.785895 a 7.4999997,7.4999997 0 0 0 0,7.5 z"
+       fill="#ffffff"
+       shaper:cutDepth="0.003"
+       shaper:pathType="interior"
+       stroke="#000000"
+       vector-effect="non-scaling-stroke"
+       id="path2258"
        style="fill:none;stroke:#ff0000;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
   </g>
 </svg>
