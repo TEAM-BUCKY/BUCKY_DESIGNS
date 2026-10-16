@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="130mm"
-   height="130mm"
-   viewBox="0 0 130 130"
+   width="120mm"
+   height="120mm"
+   viewBox="0 0 120 120"
    version="1.1"
    id="svg5"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
@@ -39,13 +39,13 @@
      id="layer1"><circle
        style="display:inline;fill:none;stroke:#0d0000;stroke-width:0.799999;stroke-opacity:1"
        id="path270"
-       cx="65"
-       cy="65"
+       cx="60"
+       cy="60"
        r="50"
        inkscape:label="Outside" /><g
        id="g5600"
        inkscape:label="Hoekvlakken"
-       transform="translate(10,10)"><path
+       transform="translate(5,5)"><path
          id="path12847"
          style="fill:#000000;fill-opacity:1;stroke:#0d0000;stroke-width:0.799999;stroke-opacity:1"
          d="M 11.704719,30.010631 A 50,50 45 0 0 6.1019285,44.718271 L 21.945122,35.922929 21.640127,17.776381 a 50,50 45 0 0 -9.935408,12.23425 z"
@@ -83,11 +83,11 @@
          inkscape:label="Hoekvlak1" /></g><path
        id="path15102"
        style="fill:#000000;fill-opacity:1;stroke:#0d0000;stroke-width:0.799999;stroke-opacity:1"
-       d="m 64.999744,44.999931 -17.320907,9.999906 v 20.00033 l 17.320907,9.999906 17.321423,-9.999906 v -20.00033 z m 0,9.999906 a 10,10 0 0 1 10.000423,9.999907 10,10 0 0 1 -10.000423,10.000423 10,10 0 0 1 -9.999907,-10.000423 10,10 0 0 1 9.999907,-9.999907 z"
+       d="m 59.999744,39.999931 -17.320907,9.999906 v 20.00033 l 17.320907,9.999906 17.321423,-9.999906 v -20.00033 z m 0,9.999906 a 10,10 0 0 1 10.000423,9.999907 10,10 0 0 1 -10.000423,10.000423 10,10 0 0 1 -9.999907,-10.000423 10,10 0 0 1 9.999907,-9.999907 z"
        inkscape:label="Center" /><g
        id="g5533"
        inkscape:label="Squibbles"
-       transform="translate(10,10)"><g
+       transform="translate(5,5)"><g
          id="g15505"
          inkscape:transform-center-y="-14.54375"
          transform="rotate(-60,55,55)"
@@ -241,7 +241,7 @@
              r="1.3" /></g></g></g><g
        id="g5362"
        inkscape:label="TEAM BUCKY"
-       transform="translate(10,10)"><g
+       transform="translate(5,5)"><g
          id="g5249"
          inkscape:label="TEAM"><path
            style="fill:none;fill-opacity:1;stroke:#0d0000;stroke-width:0.799999;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
@@ -310,7 +310,7 @@
            sodipodi:nodetypes="cccccccccccccc"
            inkscape:label="B" /></g></g><g
        id="g5001"
-       transform="rotate(150,58.660254,61.339746)"
+       transform="rotate(150,56.830127,58.169873)"
        inkscape:label="Tandwiel"><path
          id="path4845"
          style="fill:#070000;fill-opacity:1;stroke-width:0.799999"
@@ -356,13 +356,4 @@
          style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.799999;stroke-linecap:butt;stroke-opacity:1"
          d="m 54.999744,47.499943 a 7.5,7.5 0 0 0 -7.499801,7.499801 7.5,7.5 0 0 0 7.499801,7.500317 7.5,7.5 0 0 0 7.500317,-7.500317 7.5,7.5 0 0 0 -7.500317,-7.499801 z m 0,2.500106 a 5,5 0 0 1 5.000211,4.999695 5,5 0 0 1 -5.000211,5.000211 5,5 0 0 1 -4.999695,-5.000211 5,5 0 0 1 4.999695,-4.999695 z"
          inkscape:label="Cirkel"
-         transform="rotate(-150,55,55)" /></g><path
-       style="fill:none;stroke:#ff0000;stroke-width:0.799999;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       d="m 65,5 51.96,30 V 94.999999 L 65,125 13.04,94.999999 V 35 Z"
-       id="path538"
-       sodipodi:nodetypes="ccccccc" /><circle
-       style="fill:none;stroke:#ff0000;stroke-width:0.799999;stroke-linecap:round;stroke-linejoin:round;stroke-opacity:1"
-       id="path2491"
-       cx="65"
-       cy="13.8"
-       r="4.8000002" /></g></svg>
+         transform="rotate(-150,55,55)" /></g></g></svg>

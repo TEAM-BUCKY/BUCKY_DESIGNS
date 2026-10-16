@@ -7,6 +7,9 @@
    id="svg8"
    inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
    sodipodi:docname="Bottom Laser Cut.svg"
+   inkscape:export-filename="../../../Pictures/Bottom Laser Cut.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -24,9 +27,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.3140102"
-     inkscape:cx="509.88949"
-     inkscape:cy="445.96304"
+     inkscape:zoom="1.1201117"
+     inkscape:cx="469.59602"
+     inkscape:cy="399.96011"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -54,15 +57,6 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1">
-    <path
-       d="m 184.409,137.909 15.01032,27.39127 C 174.84686,205.32236 126.71818,224.1244 81.581618,211.336 36.445343,198.54768 5.2910414,157.28274 5.2910414,110.30006 5.2910414,63.317374 36.445343,22.052431 81.581618,9.2641132 126.71818,-3.524287 174.84686,15.277756 199.41932,55.299843 L 184.409,82.909 h -8 v 55 z"
-       fill="#000000"
-       shaper:cutDepth="0.003"
-       shaper:pathType="exterior"
-       vector-effect="non-scaling-stroke"
-       id="path1089"
-       style="fill:none;stroke:#0000ff;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-       sodipodi:nodetypes="ccsssccccc" />
     <path
        d="m 33.17543,90.300052 a 2.1000006,2.1000006 0 1 0 4.2,0 2.1000006,2.1000006 0 1 0 -4.2,0 z"
        fill="#ffffff"
@@ -133,15 +127,6 @@
        stroke="#000000"
        vector-effect="non-scaling-stroke"
        id="path1113"
-       style="fill:none;stroke:#ff0000;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
-    <path
-       d="m 133.17543,110.30005 a 2.1000006,2.1000006 0 1 0 4.2,0 2.1000006,2.1000006 0 1 0 -4.2,0 z"
-       fill="#ffffff"
-       shaper:cutDepth="0.003"
-       shaper:pathType="interior"
-       stroke="#000000"
-       vector-effect="non-scaling-stroke"
-       id="path1115"
        style="fill:none;stroke:#ff0000;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        d="m 134.20492,191.74716 a 3.9999999,3.9999999 0 0 0 -1.4641,5.4641 l 3.5,6.06218 a 3.9999999,3.9999999 0 0 0 5.4641,1.4641 l 34.64102,-20 a 3.9999999,3.9999999 0 0 0 1.4641,-5.4641 l -3.5,-6.06218 a 3.9999999,3.9999999 0 0 0 -5.4641,-1.4641 z"
@@ -320,5 +305,45 @@
        vector-effect="non-scaling-stroke"
        id="path354"
        style="fill:none;stroke:#ff0000;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <g
+       id="g1798"
+       transform="translate(-0.766)">
+      <g
+         id="g1707"
+         inkscape:label="KickerScrews">
+        <path
+           d="m 133.17543,110.409 a 1.25,1.25 0 1 0 2.5,0 1.25,1.25 0 1 0 -2.5,0 z"
+           fill="#ffffff"
+           shaper:cutDepth="0.003"
+           shaper:pathType="interior"
+           stroke="#000000"
+           vector-effect="non-scaling-stroke"
+           id="path1115"
+           style="fill:none;stroke:#ff0000;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <path
+           d="m 148.175,110.409 a 1.25,1.25 0 1 0 2.5,0 1.25,1.25 0 1 0 -2.5,0 z"
+           fill="#ffffff"
+           shaper:cutDepth="0.003"
+           shaper:pathType="interior"
+           stroke="#000000"
+           vector-effect="non-scaling-stroke"
+           id="path977"
+           style="fill:none;stroke:#ff0000;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <path
+         d="m 156.175,103.8 h -30 v 13 h 30 z"
+         fill="#ffffff"
+         shaper:cutDepth="0.003"
+         shaper:pathType="interior"
+         stroke="#000000"
+         vector-effect="non-scaling-stroke"
+         id="path1709"
+         style="fill:none;stroke:#000000;stroke-width:0.800001;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    </g>
+    <path
+       id="path525"
+       style="vector-effect:non-scaling-stroke;fill:none;stroke:#0000ff;stroke-width:0.8"
+       d="M 110.29094,5.2911499 C 52.301205,5.2912658 5.2912658,52.301205 5.2911499,110.29094 5.2909787,168.28088 52.301002,215.29113 110.29094,215.29125 c 40.56619,-0.01 77.49797,-23.38608 94.86553,-60.04646 L 192.40893,137.909 H 185.409 v -55 h 7 L 205.23657,65.464221 C 187.8932,28.728332 150.91505,5.2929302 110.29094,5.2911499 Z"
+       sodipodi:nodetypes="cccccccccc" />
   </g>
 </svg>
