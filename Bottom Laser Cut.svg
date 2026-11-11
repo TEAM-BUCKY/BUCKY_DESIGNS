@@ -27,11 +27,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="3.4145632"
-     inkscape:cx="524.22518"
-     inkscape:cy="393.31532"
+     inkscape:zoom="0.63690906"
+     inkscape:cx="131.88696"
+     inkscape:cy="455.32403"
      inkscape:document-units="mm"
-     inkscape:current-layer="g1798"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1920"
@@ -346,5 +346,27 @@
        style="vector-effect:non-scaling-stroke;fill:none;stroke:#0000ff;stroke-width:0.8"
        d="M 110.29094,5.2911499 C 52.301205,5.2912658 5.2912658,52.301205 5.2911499,110.29094 5.2909787,168.28088 52.301002,215.29113 110.29094,215.29125 c 40.56619,-0.01 77.49797,-23.38608 94.86553,-60.04646 L 192.40893,137.909 H 185.409 v -55 h 7 L 205.23657,65.464221 C 187.8932,28.728332 150.91505,5.2929302 110.29094,5.2911499 Z"
        sodipodi:nodetypes="cccccccccc" />
+    <path
+       d="m 25.752486,156.95635 a 2.1000003,2.1000003 0 1 0 3.522418,2.28747 2.1000003,2.1000003 0 1 0 -3.522418,-2.28747 z"
+       fill="#ffffff"
+       shaper:cutDepth="0.003"
+       shaper:pathType="interior"
+       stroke="#000000"
+       vector-effect="non-scaling-stroke"
+       id="path478"
+       style="fill:none;stroke:#ff0000;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:transform-center-x="75.761306"
+       inkscape:transform-center-y="-49.199975" />
+    <path
+       d="m 25.752487,63.643758 a 2.1000015,2.1000015 0 1 0 3.522418,-2.287483 2.1000015,2.1000015 0 1 0 -3.522418,2.287483 z"
+       fill="#ffffff"
+       shaper:cutDepth="0.003"
+       shaper:pathType="interior"
+       stroke="#000000"
+       vector-effect="non-scaling-stroke"
+       id="path520"
+       style="fill:none;stroke:#ff0000;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       inkscape:transform-center-x="75.761306"
+       inkscape:transform-center-y="49.199966" />
   </g>
 </svg>
